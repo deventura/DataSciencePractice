@@ -1,4 +1,4 @@
-# My-First-Data-Project
+# Data Science Practice
 This is my first time using R and manipulating data   
 This is not an actual project, but more of me just learning how to start a data science project
   
